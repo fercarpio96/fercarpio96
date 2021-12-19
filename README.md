@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fercarpio96
+- 👋 Hi, I’m Fernando Carpio 
 - 👀 I’m interested in finding an intership that can help me improve my skills in coding.
 - 🌱 I’m currently studying a masters in Business Analytics, developing my skills in python, machine learning algorithms and data visualization using tableau.
 In the next semester I will continue my education by learning both SQL and R.
